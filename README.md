@@ -42,7 +42,7 @@ If you find this useful, please consider citing our paper:
 ```bibtex
 @article{zhang2025probing,
   title={Probing Neural Combinatorial Optimization Models},
-  author={Zhang, Zhiqin, Ma, Yining, Cao, Zhiguang  and Lau, Hoong Chuin},
+  author={Zhang, Zhiqin and Ma, Yining and Cao, Zhiguang and Lau, Hoong Chuin},
   journal={Advances in Neural Information Processing Systems},
   year={2025}
 }
