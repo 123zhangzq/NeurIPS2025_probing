@@ -40,7 +40,7 @@ We present the first systematic interpretation of black-box **Neural Combinatori
 If you find this useful, please consider citing our paper:  
 
 ```bibtex
-@article{zhang2025probing,
+@inproceedings{zhang2025probing,
   title={Probing Neural Combinatorial Optimization Models},
   author={Zhang, Zhiqin and Ma, Yining and Cao, Zhiguang and Lau, Hoong Chuin},
   journal={Advances in Neural Information Processing Systems},
