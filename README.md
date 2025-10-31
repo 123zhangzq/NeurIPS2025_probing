@@ -43,6 +43,6 @@ If you find this useful, please consider citing our paper:
 @inproceedings{zhang2025probing,
   title={Probing Neural Combinatorial Optimization Models},
   author={Zhang, Zhiqin and Ma, Yining and Cao, Zhiguang and Lau, Hoong Chuin},
-  journal={Advances in Neural Information Processing Systems},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2025}
 }
